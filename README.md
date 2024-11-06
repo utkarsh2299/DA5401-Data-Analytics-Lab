@@ -1,5 +1,5 @@
 # DA5401-2024
-DA5401 Data Analytics Lab (2024) -- Assignments and Solutions
+DA5401 Data Analytics Lab (2024) -- The repo contains useful material, Assignments and Solutions for the Data Analytics course at IIT Madras.
 
 ## Course Objectives
 * Evaluating the results of Machine Learning modeling
